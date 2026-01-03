@@ -2,3 +2,5 @@ git status
 git add .
 git commit -m "อธิบายสิ่งที่เปลี่ยน"
 git push
+
+i
