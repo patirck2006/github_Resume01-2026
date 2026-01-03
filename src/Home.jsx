@@ -34,7 +34,7 @@ function Myself() {
         </div>
         <div className="bg-sky-950 rounded-2xl w-60 h-40 p-10 ">
             <p className=" text-center text-4xl text-sky-500 font-bold pb-3 ">15+</p>
-            <p className='text-center text-gray-400 font-semibold ' >Happy Clients</p>    
+            <p className='text-center text-gray-400 font-semibold ' >Happy Clientss</p>    
         </div>
     </div>
     </div>
