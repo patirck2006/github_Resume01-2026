@@ -19,10 +19,37 @@ function About() {
             </div>
         </div>
 
-        <div>
-            <div></div>
-            <div></div>
-            <div></div>
+
+
+
+
+
+        <div className='w-200 h-auto mt-15 ml-200 '>
+            
+            <div className='border-2 rounded-4xl border-sky-950 mb-5 bg-gray-950  '>
+                <div className='grid grid-flow-col  gap-2 px-5 py-5'>
+                    <img className="row-span-3 w-20 h-20 "src=".\public\307-3070481_education-clipart-academic-education-symbol-for-resume.png" alt="#" />
+                    <p className='text-start col-span-1 font-semibold text-white'>Education</p>
+                    <p className='text-start col-span-1 text-gray-400  font-light  '>DBI</p>
+                </div>
+            </div>
+            
+            <div className='border-2 rounded-4xl border-sky-950 mb-5 bg-gray-950  '>
+                <div className='grid grid-flow-col  gap-2 px-5 py-5'>
+                    <img className="row-span-3 w-20 h-20" src=".\public\locatiom.png" alt="#" />
+                    <p className=' col-span-1 font-semibold text-white text-start'>Location</p>
+                    <p className=' col-span-1 text-gray-400 text-start font-light  '>maemoh</p>
+                </div>
+            </div>
+            
+            <div className='border-2 rounded-4xl border-sky-950 mb-5  bg-gray-950'>
+                <div className='grid grid-flow-col  gap-2 px-5 py-5'>
+                    <img className="row-span-3 w-20 h-20" src=".\public\experiebce.jpg" alt="#" />
+                    <p className=' col-span-1 font-semibold text-white'>Experience </p>
+                    <p className=' col-span-1 text-gray-400 text-start font-light '>none</p>
+                </div>
+            </div>
+        
         </div>
     </div>
   )

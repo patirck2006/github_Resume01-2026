@@ -10,7 +10,7 @@ function Navbar() {
           <li><a href ="#" className='font-semibold text-white hover:text-sky-400 cursor-pointer'>Home</a></li>
           <li><a href="#" className='font-semibold text-white hover:text-sky-400 cursor-pointer'>About</a></li>
           <li><a href="#" className='font-semibold text-white hover:text-sky-400 cursor-pointer'>Skills</a></li>
-          <li><a href="#" className='font-semibold text-white  hover:text-sky-400 cursor-pointer'>Services</a></li>
+          <li><a href="#" className='font-semibold text-white  hover:text-sky-400 cursor-pointer'>Education</a></li>
           <li><a href="#" className='font-semibold text-white hover:text-sky-400 cursor-pointer '>Project</a></li>
           <li><a href="#" className='font-semibold text-white  hover:text-sky-400 cursor-pointer'>Contact</a></li>
         </ul>
